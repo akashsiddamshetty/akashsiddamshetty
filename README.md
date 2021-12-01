@@ -1,6 +1,6 @@
 ### Hola, I'm Akash Siddamshetty
 
-- 🌱 I’m currently learning python
+- 🌱 MERN Stack Developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
