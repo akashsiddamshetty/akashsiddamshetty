@@ -9,4 +9,5 @@
 <br />
 <br />
 
-[instagram]: https://instagram.com/4k4_s_h
+[twitter]:https://twitter.com/4k4_s_h
+[linkedin]:https://www.linkedin.com/in/akash-siddamshetty-a947b3216/
