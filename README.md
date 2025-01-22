@@ -1,4 +1,4 @@
-👋 Hey there! I'm Akash, a frontend developer with over 2 years of hands-on experience crafting and developing robust web applications. My toolkit includes technologies such as React.js, Next.js, JavaScript, Tailwind CSS, HTML, CSS, Node.js, and more.
+👋 Hey there! I'm Akash, a frontend developer with over 3 years of hands-on experience crafting and developing robust web applications. My toolkit includes technologies such as React.js, Next.js, JavaScript, Tailwind CSS, HTML, CSS, Node.js, and more.
 
 🚀 I thrive on building user-friendly interfaces and seamless experiences, always keeping user needs and best practices in mind. I'm passionate about clean, maintainable code and adhere to SOLID principles in my development process.
 
