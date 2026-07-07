@@ -1,16 +1,21 @@
-With over 3 years of experience in web development, I currently thrive as a Fullstack Developer at Dataviv Technologies. My expertise spans both frontend and backend development, with a strong focus on delivering high-performance, SEO-optimized web applications.
+With 4 years of experience in software development, I currently work as a Full Stack Developer at Dataviv Technologies, building scalable web applications and enterprise platforms. My expertise spans frontend development, backend services, cloud deployment, and the complete Software Development Life Cycle, with a strong focus on writing clean, maintainable, and production quality software.
 
-On the frontend, I specialize in ReactJS, NextJS, TailwindCSS, and TypeScript. I am passionate about crafting intuitive, responsive UI components that ensure seamless user experiences across all devices. From interactive dashboards to dynamic, content-rich websites, I take pride in creating solutions that not only look great but perform flawlessly.
+On the frontend, I specialize in React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, React Hook Form, Tailwind CSS, HTML5, and CSS3. I enjoy building responsive, mobile first user interfaces, reusable component libraries, dashboards, and high performance web applications that deliver an excellent user experience across different devices.
 
-On the backend, I work with Node.js, ExpressJS, Python, FastAPI, and databases such as MongoDB and PostgreSQL to design and implement scalable, efficient server-side solutions. I have a strong understanding of RESTful APIs, authentication, and real-time data management, ensuring my applications are both robust and secure.
+On the backend, I work with Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Redis, WebSockets, JWT Authentication, OAuth 2.0, and REST APIs to build secure and scalable backend services. My experience includes designing microservices, implementing authentication and authorization, integrating third party services, optimizing database performance, and developing real time applications.
 
-As a Fullstack Developer, I enjoy bridging the gap between the frontend and backend to create end-to-end solutions that meet business needs while enhancing user satisfaction. I continuously stay updated with the latest industry trends and emerging technologies to push the boundaries of what’s possible.
+I also have hands on experience with Docker, AWS, GitHub Actions, CI CD, Linux, and Nginx, helping automate deployments and maintain reliable application environments. I follow Object Oriented Programming, SOLID principles, Design Patterns, Clean Architecture, Test Driven Development, and modern software engineering practices to build reliable and maintainable applications.
 
-Skills & Technologies:
-* Frontend: ReactJS, NextJS, TailwindCSS, TypeScript, JavaScript
-* Backend: Node.js, ExpressJS, Python, FastAPI
-* Databases: MongoDB, PostgreSQL
-* Version Control & DevOps: Git, Docker
-* Others: SEO Optimization, Responsive Web Design, UI/UX Design
+As a Full Stack Developer, I enjoy taking ownership of complete software solutions, from requirement analysis and architecture to development, deployment, and production support. I continuously explore new technologies, improve engineering practices, and leverage AI development tools such as Cursor and GitHub Copilot to improve productivity, code quality, and development efficiency.
 
-If you're looking for someone who can turn complex ideas into beautiful, functional applications, let's connect!
+Technologies
+
+Frontend: React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, React Hook Form, Tailwind CSS, HTML5, CSS3
+
+Backend: Python, FastAPI, REST APIs, PostgreSQL, SQLAlchemy, Pydantic, Redis, WebSockets, JWT Authentication, OAuth 2.0, Microservices
+
+Cloud and DevOps: Docker, AWS, GitHub Actions, CI CD, Linux, Nginx, Git
+
+Software Engineering: Object Oriented Programming, SOLID Principles, Design Patterns, Clean Architecture, Test Driven Development, Unit Testing, Performance Optimization, Agile Scrum
+
+If you're interested in discussing full stack development, software engineering, system design, or potential opportunities, feel free to connect with me.
